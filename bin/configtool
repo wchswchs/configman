@@ -1,0 +1,5 @@
+#!/bin/bash
+
+CONFIG_TOOL_DIR="/Users/MLA/GitHub/configman/cli"
+
+php $CONFIG_TOOL_DIR/compiler.php $*
